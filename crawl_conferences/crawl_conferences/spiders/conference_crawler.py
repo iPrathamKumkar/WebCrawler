@@ -5,7 +5,7 @@ class Scraper(scrapy.Spider):
     name  = "conferences"
     page_number = 1
 
-    start_urls = ["http://www.wikicfp.com/cfp/call?conference=big%20data%20&page=1"]
+    start_urls = ["http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence&page=1"]
 
     def parse(self, response):
         Scraper.page_number += 1
@@ -24,7 +24,7 @@ class Scraper(scrapy.Spider):
             else:
                 i += 1
 
-        next_page = "http://www.wikicfp.com/cfp/call?conference=big%20data%20&page=" + str(Scraper.page_number)
+        next_page = "http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence&page=" + str(Scraper.page_number)
 
         if Scraper.page_number <= 20:
             yield response.follow(next_page, callback = self.parse)

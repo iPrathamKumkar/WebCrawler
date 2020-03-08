@@ -1,41 +1,21 @@
 
-AIBT--Scopus, Ei Compendex 2020	2020 International Conference on Artificial Intelligence and Blockchain Technology (AIBT 2020)--Scopus, Ei Compendex
-Jul 31, 2020 - Aug 2, 2020	Beijing, China	Mar 15, 2020
-ICEEG--EI, Scopus 2020	2020 The 4th International Conference on E-commerce, E-Business and E-Government (ICEEG 2020)--EI Compendex, Scopus
-Jun 17, 2020 - Jun 19, 2020	Paris, France	Mar 15, 2020
-ICISDM--ACM, Ei and Scopus 2020	ACM--2020 4th International Conference on Information System and Data Mining (ICISDM 2020)--EI Compendex, Scopus
-May 15, 2020 - May 17, 2020	Hawaii, USA	Mar 15, 2020
-ICPAM--Ei Compendex and Scopus 2020	2020 9th International Conference on Pure and Applied Mathematics (ICPAM 2020)--EI Compendex, SCOPUS
-Jul 14, 2020 - Jul 17, 2020	Athens, Greece	Mar 15, 2020
-ACM--ICBDM--Ei Compendex & Scopus 2020	ACM--2020 International Conference on Big Data in Management (ICBDM 2020)--Ei Compendex & Scopus
-May 15, 2020 - May 17, 2020	Manchester, UK	Mar 15, 2020
-ICEEI--EI Compendex, Scopus 2020	2020 2nd International Conference on Engineering Education and Innovation (ICEEI 2020)--Ei Compendex, Scopus
-Jun 28, 2020 - Jun 30, 2020	Compiègne, France	Mar 15, 2020
-DASPA 2020	The International Workshop on Data Stream Processing and Applications
-Jul 1, 2020 - Jul 4, 2020	University of Cagliari, Italy	Mar 15, 2020
-JCC-BD&ET 2020	8th Conference on Cloud Computing, Big Data & Emerging Topics (proceedings published by Springer CCIS)
-Jun 22, 2020 - Jun 26, 2020	La Plata, Bs As, Argentina	Mar 16, 2020
-WBDE--JA, Scopus, EI (INSPEC, IET) 2020	2020 Workshop on Big Data Engineering (WBDE 2020)--JA, Scopus, EI (INSPEC, IET)
-Jul 4, 2020 - Jul 6, 2020	Da Nang, Vietnam	Mar 20, 2020
-ICFIT--EI Compendex, Scopus 2020	2020 9th International Conference on Frontiers of Information Technology (ICFIT 2020)--EI Compendex, Scopus
-Jun 10, 2020 - Jun 12, 2020	Lyon, France	Mar 20, 2020
-ICAISE--Ei and Scopus 2020	2020 The 2nd International Conference on Advanced Information Systems and Engineering (ICAISE 2020)--Ei compendex, scopus
-Aug 7, 2020 - Aug 9, 2020	Cairo, Egypt	Mar 20, 2020
-ICDM 2020	Call for Short&Industry Papers / 20th Industrial Conference on Data Mining ICDM 2020
-Jul 15, 2020 - Jul 29, 2020	New York, USA	Mar 20, 2020
-IEEE SmartSys 2020	5th IEEE Workshop on Smart Service Systems (SmartSys)
-Jun 22, 2020 - Jun 22, 2020	Bologna, Italy	Mar 22, 2020
-ICBDC--ACM, Ei and Scopus 2020	ACM--2020 5th International Conference on Big Data and Computing (ICBDC 2020)--Ei Compendex, Scopus
-May 28, 2020 - May 30, 2020	Chengdu, China	Mar 25, 2020
-AI ML Big Data Vision 2020	IEEE COINS  | Artificial Intelligence | Machine Learning | Deep Learning | Machine Vision | Big Data Analytics | Video Analytics | Speech Recognition | NLP
-Jul 27, 2020 - Jul 29, 2020	Barcelona, Spain	Mar 25, 2020
-ICAIBD--IEEE, Ei and Scopus 2020	IEEE--2020 3rd International Conference on Artificial Intelligence and Big Data (ICAIBD 2020)--Ei Compendex, Scopus
-May 28, 2020 - May 31, 2020	Chengdu, China	Mar 25, 2020
-IoTHealthcare 2020	IEEE COINS | IoT , AI, and Big Data for Healthcare Track
-Jul 27, 2020 - Jul 29, 2020	Barcelona, Spain	Mar 25, 2020
-IEEE COINS 2020	 Internet of Things IoT | Artificial Intelligence | Machine Learning | Big Data | Blockchain | Edge & Cloud Computing | Security | Embedded Systems | Circuit and Systems | WSN | 5G
-Jul 27, 2020 - Jul 29, 2020	Barcelona, Spain	Mar 25, 2020
-ACM--BIOTC--Ei and Scopus 2020	ACM--2020 2nd Blockchain and Internet of Things Conference (BIOTC 2020)--Ei Compendex, Scopus
-Jul 8, 2020 - Jul 10, 2020	Singapore	Mar 25, 2020
-SiMLA 2020	2nd Workshop of Security in Machine Learning and its Applications
-Jun 22, 2020 - Jun 25, 2020	Rome, Italy	Mar 25, 2020
+AIBD 2020	International Conference on Artificial Intelligence and Big Data	Apr 25, 2020 - Apr 26, 2020	Copenhagen, Denmark	Mar 7, 2020
+CBIoT  2020	International Conference on Cloud, Big Data and IoT	May 30, 2020 - May 31, 2020	Vancouver, Canada	Mar 7, 2020
+MLT 2020	International Conference on Machine Learning & Trends	May 30, 2020 - May 31, 2020	Vancouver, Canada	Mar 7, 2020
+IJDKP 2020	International Journal of Data Mining & Knowledge Management Process	N/A	N/A	Mar 7, 2020
+BDAB 2020	International Conference on Big Data and Blockchain	Apr 26, 2020 - Apr 27, 2020	Copenhagen, Denmark	Mar 7, 2020
+BDML 2020	International Conference on Big Data and Machine Learning	Jul 25, 2020 - Jul 26, 2020	London, United Kingdom	Mar 7, 2020
+IJU 2020	International Journal of Ubiquitous Computing	N/A	N/A	Mar 7, 2020
+DMDB  2020	7th International Conference on Data Mining and  Database	Mar 28, 2020 - Mar 29, 2020	Sydney, Australia	Mar 7, 2020
+SEBD 2020	28th Symposium on Advanced Database Systems	Jun 21, 2020 - Jun 24, 2020	Villasimius (Sardinia) Italy	Mar 10, 2020 (Mar 3, 2020)
+DSDE--Ei Compendex and Scopus 2020	2020 The 3rd International Conference on Data Storage and Data Engineering (DSDE 2020)--Scopus, Ei Compendex	Jun 10, 2020 - Jun 12, 2020	Barcelona, Spain	Mar 10, 2020
+AIBC--Ei and Scopus 2020	2020 International Artificial Intelligence and Blockchain Conference (AIBC 2020)--Ei Compendex and Scopus	May 13, 2020 - May 15, 2020	Nagoya, Japan	Mar 10, 2020
+KDBD 2020	The 2nd International Workshop on Knowledge Discovery for Big Data	Jun 22, 2020 - Jun 26, 2020	Calgary, Canada	Mar 10, 2020
+DEEP-BDB   2020	The 2nd International Conference on Deep Learning, Big Data and Blockchain	Aug 24, 2020 - Aug 26, 2020	Rome, Italy	Mar 12, 2020
+DSM 2020	FIRST INTERNATIONAL SUMMER SCHOOL ON DATA SCIENCE FOR MOBILITY	Apr 27, 2020 - May 1, 2020	Santorini, Greece	Mar 13, 2020
+IEEE DSC 2020	5th IEEE International Conference on Data Science in Cyberspace	Jun 24, 2020 - Jun 27, 2020	Hong Kong, China	Mar 13, 2020 (Mar 6, 2020)
+IJDMS  2020	International Journal of Database Management Systems	N/A	N/A	Mar 14, 2020
+InWeS 2020	11th International Conference on Internet Engineering & Web Services	Dec 19, 2020 - Dec 20, 2020	Sydney, Australia	Mar 14, 2020
+CSEE 2020	The International Conference on Computer Science, Engineering and Education 2020	Jun 10, 2020 - Jun 12, 2020	Barcelona, Spain	Mar 15, 2020 (Mar 10, 2020)
+ODRE 2020	International Workshop on Open Distributed Real-time Embedded Systems	May 21, 2020 - May 21, 2020	Nashville, Tennessee	Mar 15, 2020
+ACM--BDE--Ei and Scopus 2020	ACM--2020 2nd International Conference on Big Data Engineering (BDE 2020)--Ei Compendex, Scopus	May 29, 2020 - May 31, 2020	Shanghai, China	Mar 15, 2020

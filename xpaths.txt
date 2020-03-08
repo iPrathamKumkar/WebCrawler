@@ -1,0 +1,3 @@
+//html//body//div[4]//center//form//table//tr[3]//td//table//tr[2]//td[1]//a
+//html//body//div[4]//center//form//table//tr[3]//td//table//tr[2]//td[2]
+//html//body//div[4]//center//form//table//tr[3]//td//table//tr[3]//td[2]

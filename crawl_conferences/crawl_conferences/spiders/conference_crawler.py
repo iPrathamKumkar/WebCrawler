@@ -2,9 +2,10 @@ import scrapy
 import time
 
 class Scraper(scrapy.Spider):
-    name  = "conference"
-    page_number = 15
-    start_urls = ["http://www.wikicfp.com/cfp/call?conference=big%20data%20&page=15"]
+    name  = "conferences"
+    page_number = 1
+
+    start_urls = ["http://www.wikicfp.com/cfp/call?conference=big%20data%20&page=1"]
 
     def parse(self, response):
         Scraper.page_number += 1
@@ -13,6 +14,7 @@ class Scraper(scrapy.Spider):
         i = 1
         while i + 1 < len(rows):
             conference = dict()
+
             if len(rows[i].css("a::text")) > 0:
                 conference['acronym'] = rows[i].css("a::text")[0].extract()
                 conference['title'] = rows[i].css("td::text")[0].extract()
@@ -21,7 +23,8 @@ class Scraper(scrapy.Spider):
                 yield conference
             else:
                 i += 1
-        time.sleep(7)
+
         next_page = "http://www.wikicfp.com/cfp/call?conference=big%20data%20&page=" + str(Scraper.page_number)
+
         if Scraper.page_number <= 20:
             yield response.follow(next_page, callback = self.parse)

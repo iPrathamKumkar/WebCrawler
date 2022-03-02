@@ -28,7 +28,7 @@ pywin32==227
 queuelib==1.5.0
 requests==2.22.0
 ruamel-yaml==0.15.87
-Scrapy==2.0.0
+Scrapy==2.6.0
 service-identity==18.1.0
 six==1.14.0
 tqdm==4.42.1
